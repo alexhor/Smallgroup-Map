@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smallgroup Map 2.3.0\n"
+"POT-Creation-Date: 2015-07-01 11:59+0300\n"
+"PO-Revision-Date: 2015-07-01 11:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: Hornig Software <info@h-software.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: backend.php:12 function.php:25
+msgid "Smallgroup Map"
+msgstr "Hauskreis Karte"
+
+#: backend.php:12
+msgid "New Smallgroup"
+msgstr "Neuer Hauskreis"
+
+#: backend.php:41
+msgid "The Smallgroup has successfully been saved"
+msgstr "Der Hauskreis wurde erfolgreich gespeichert"
+
+#: backend.php:44
+msgid "Saving was not successfull, please try again"
+msgstr "Beim Speichern ist ein Fehler aufgetreten, bitte versuchen Sie es erneut"
+
+#: backend.php:74 backend.php:130
+msgid "Open for new Members?"
+msgstr "Offen für neue Mitglieder?"
+
+#: backend.php:77 backend.php:140
+msgid "Yes"
+msgstr "Ja"
+
+#: backend.php:78 backend.php:140
+msgid "No"
+msgstr "Nein"
+
+#: backend.php:83 backend.php:86 backend.php:131 map.php:25
+msgid "About Us"
+msgstr "Über uns"
+
+#: backend.php:91 backend.php:94 backend.php:132 map.php:25
+msgid "Description"
+msgstr "Beschreibung"
+
+#: backend.php:98
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: backend.php:100
+msgid "URL"
+msgstr "URL"
+
+#: backend.php:101
+msgid "Choose Image"
+msgstr "Bild auswählen"
+
+#: backend.php:102
+msgid "Enter a URL or upload an image"
+msgstr "Geben Sie eine URL ein oder laden Sie ein Bild hoch"
+
+#: backend.php:107
+msgid "Choose a location on the map, where the smallgroup is located"
+msgstr "Wählen Sie einen Punkt auf der Karte aus, wo sich der Hauskreis befindet"
+
+#: backend.php:112
+msgid "Save"
+msgstr "Speichern"
+
+#: backend.php:128
+msgid "Picture"
+msgstr "Bild"
+
+#: backend.php:139
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: backend.php:139
+msgid "Delete"
+msgstr "Löschen"
+
+#: index.php:43
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: map.php:36
+msgid "Javascript is required to load the map!"
+msgstr "Javascript wird benötigt um die Karte zu laden!"
+
+#: map.php:78
+msgid "Save Map Section as Default"
+msgstr "Den aktuellen Kartenausschnitt als Standard speichern"
